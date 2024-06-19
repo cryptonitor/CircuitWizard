@@ -1,5 +1,10 @@
 # CircuitWizard
+// Part of Reverse Engingeering Toolbox endevour (Add ref, list code, upload project)
+
 CircuitScan. Scanning any circuitboard to map its components and traces fast and simple with Android or handheld camera.
+//Name of the project involves CircuitWizard (base), CircuitScan (scanning functionality by hovering a phone over a circuitboard), 
+//CircuitboardjhmapperProgram (Simplified proof-of-conecpt for multiplatform 
+//adoptation). These terms may be extensively used interchangably until I format the project properly.  WORK IN PROGRESS. 
 
 
 Whitepaper: Circuit Board Mapping Program
