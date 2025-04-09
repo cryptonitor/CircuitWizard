@@ -80,3 +80,9 @@ This whitepaper outlines the development of a Circuit Board Mapping Program aime
 
 By structuring the project in this manner, we ensure clear communication of our goals, scope, and development plan, setting a strong foundation for the successful realization of the Circuit Board Mapping Program.
 s
+
+
+
+Chapter 42: Project Scalene
+Began as a simple calculation of elliptic curves (mindscapes throughout desktop creation of any replacement part for some "piece of shit made-to-fail manufactured waste" using various techniues) 
+C
