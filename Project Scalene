@@ -8,3 +8,23 @@ FPGA-Analog HybridIzatruion for Elliptic-Curve  Cryptographic Key Search.
 Scalene isnt just about ECC key-search. S
 Scalene becomes a vehicle for exploring the edges of mathematics, physics, and reality itself.
 
+//EDIT: forgot what I was going to edit...//
+
+________
+Contents: 
+ -- docs/ 
+   -ECC_KeySearch_Whitepaper.md
+    -Analog_Paradigm.md
+
+  --FPGA_mesh/
+   -HDL_cores/
+   -board_designs/
+
+   --analog_computation/
+    -concepts/
+
+--- references/
+
+
+________________
+//END OF CONTENTS: TODO, write references and add crap written on paper and done with hardware//
